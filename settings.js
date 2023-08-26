@@ -16,7 +16,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 /*
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
-global.OWNER_NAME = '𓏧✯𝕤𝕒𝕔𝕙𝕚𝕪𝕒✯𓏧' // Owner Name
+global.OWNER_NAME = '©𝙽𝙸𝚁𝙼𝙰𝙻°' // Owner Name
 global.OWNER_NUMBER = ['94778571251'] //Owner Number
 global.BOT_ADMINS = ['94778571251','94715166712'] //Bot admins numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
@@ -28,7 +28,7 @@ global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and 
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = 'King-nima-gpt-bot'
-global.SESSION_ID = 'elisa_md@;;;JMFAjTpD#yvZKU3nqJGoEkjpSoGRKiRIiemV2fRqiEfR-uvuJfvY'
+global.SESSION_ID = 'elisa_md@;;;kQVxSDjA#ipCTvEGz-FoRumhZRLxy7leOFFDFCaFHBj8hRbQy9nc'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
